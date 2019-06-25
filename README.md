@@ -24,12 +24,13 @@ Programming:
   - Visual Basic Applications
   - SAS
   - MATLAB
+  - Python (beginner)
 
 Tools:
 
   -	G Suite
   - Microsoft Access
-  -	Microsoft Excel
+  -	Microsoft Excel (Includes vlookup, hlookup, Pivot Table)
   -	Microsoft Visio
   -	Citywide FMS
   -	Quicken Essentials
@@ -38,7 +39,10 @@ Tools:
   - PeopleSoft
   -	Crystal Reports
   -	Quip
-
+  - Atom
+  - Visual Studio Code
+  - DDEX
+  
 # Current Role: 
 
    Music Researcher
