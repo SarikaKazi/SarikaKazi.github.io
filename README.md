@@ -9,8 +9,10 @@ Portfolio
  
  
 # Highlighted Projects
+
 [CIA Factbook Analysis](https://github.com/SarikaKazi/CIA_Factbook/blob/master/Basics.ipynb)
 
+[Ice Core Analysis 2014](https://github.com/SarikaKazi/Ice-Core-Records)
 
 # Skills
 
