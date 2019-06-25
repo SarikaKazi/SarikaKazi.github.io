@@ -8,7 +8,8 @@ Portfolio
  [Linkedin](https://www.linkedin.com/in/sarikakazi/)
  
  
-# Analysis Portfolio
+# Highlighted Projects
+[CIA Factbook Analysis](https://github.com/SarikaKazi/CIA_Factbook/blob/master/Basics.ipynb)
 
 
 # Skills
