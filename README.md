@@ -18,6 +18,7 @@ Programming:
 
   - SQL
   - PostgreSQL
+  - Command Line
   - Visual Basic Applications
   - SAS
   - MATLAB
