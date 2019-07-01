@@ -14,6 +14,12 @@ Portfolio
 
 [Ice Core Analysis 2014](https://github.com/SarikaKazi/Ice-Core-Records)
 
+# Certifications
+
+01/2019 [Dataquest.io](https://www.dataquest.io/) - [Python for Data Science: Fundamentals](https://app.dataquest.io/view_cert/52J7I8GGVWKS9XA2MG1Z/)
+
+01/2019 [Dataquest.io](https://www.dataquest.io/) - [SQL Fundamentals](https://app.dataquest.io/view_cert/SGF3P849X5OJW98QRS2C/)
+
 # Skills
 
 Programming:
