@@ -14,6 +14,8 @@ Portfolio
 
 [Ice Core Analysis 2014](https://github.com/SarikaKazi/Ice-Core-Records)
 
+[Music_Sales [In Progress]](https://github.com/SarikaKazi/Music_Sales)
+
 # Certifications
 
 01/2019 [Dataquest.io](https://www.dataquest.io/) - [Python for Data Science: Fundamentals](https://app.dataquest.io/view_cert/52J7I8GGVWKS9XA2MG1Z/)
