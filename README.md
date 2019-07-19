@@ -30,7 +30,7 @@ Programming:
 
   - SQL
   - PostgreSQL
-  - Command Line
+  - Command Line (beginner)
   - Visual Basic Applications
   - SAS
   - MATLAB
