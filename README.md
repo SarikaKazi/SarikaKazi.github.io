@@ -22,6 +22,8 @@ Portfolio
 
 01/2019 [Dataquest.io](https://www.dataquest.io/) - [SQL Fundamentals](https://app.dataquest.io/view_cert/SGF3P849X5OJW98QRS2C/)
 
+07/2019 [Dataquest.io](https://www.dataquest.io/) - [SQL INTERMEDIATE: TABLE RELATIONS AND JOINS] (https://app.dataquest.io/view_cert/3T961ZYJB5VOYDSDYL0R/)
+
 # Skills
 
 Programming:
