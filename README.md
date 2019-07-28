@@ -24,7 +24,7 @@ Portfolio
 
 07/2019 [Dataquest.io](https://www.dataquest.io/) - [SQL Intermediate: Table Relations and Joins](https://app.dataquest.io/view_cert/3T961ZYJB5VOYDSDYL0R/)
 
-07/2019 [Dataquest.io](https://www.dataquest.io/) - [Python For Data Science: Intermediate Course] (https://app.dataquest.io/view_cert/ZMG4EUHPUMZ3XVDZBCZW/)
+07/2019 [Dataquest.io](https://www.dataquest.io/) - [Python For Data Science: Intermediate Course](https://app.dataquest.io/view_cert/ZMG4EUHPUMZ3XVDZBCZW/)
 
 # Skills
 
