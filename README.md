@@ -16,6 +16,8 @@ Portfolio
 
 [Music_Sales [In Progress]](https://github.com/SarikaKazi/Music_Sales)
 
+[Hacker News Post Analysis](https://github.com/SarikaKazi/Hacker_News_Posts) 
+
 # Certifications
 
 01/2019 [Dataquest.io](https://www.dataquest.io/) - [Python for Data Science: Fundamentals](https://app.dataquest.io/view_cert/52J7I8GGVWKS9XA2MG1Z/)
