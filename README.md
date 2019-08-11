@@ -14,9 +14,9 @@ Portfolio
 
 [Ice Core Analysis 2014](https://github.com/SarikaKazi/Ice-Core-Records)
 
-[Music_Sales [In Progress]](https://github.com/SarikaKazi/Music_Sales)
-
 [Hacker News Post Analysis](https://github.com/SarikaKazi/Hacker_News_Posts) 
+
+[Music_Sales [In Progress]](https://github.com/SarikaKazi/Music_Sales)
 
 # Certifications
 
