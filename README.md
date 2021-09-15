@@ -59,24 +59,32 @@ Tools:
   
 # Current Role: 
 
-   Music Researcher
- 
-   Start: October 2017
-   
-   Employer: Facebook via PRO Unlimited
-   
-   Accomplishments: 
-   
-      § Researched and correctly identified music publisher and recording information for Instagram’s Music Overlay feature 
-        for over 800 million users with 98% accuracy
-      
-      § Created and posted highlights of popular songs to increase artist page views on Facebook and Instagram, allowing 
-        more exposure for new and established artists
-      
-      § Maintained a tracker on clearance status of song titles owned by major record labels – SONY, Universal Music Group, 
-        The Orchard, Warner Music Group
-      
-      § Improved process of submitting and tracking open tasks, increasing efficiency for the Label Operations team by 90%
+  Facebook Inc - Data Analyst 
+  Sept 2019 - present
+  
+Global Media Content Operations Team
+Within my org, I am a Subject Matter Expert in data regarding Music Publishing, Video, Broadcast, Data Ingestion, and the Digital Supply Chain for Media Content Operations.
+
+Presto (SQL) is my best friend on the job and I use it every single day.
+
+KPI & Reporting
+• Analyze global music usage across all music products with Descriptive Statistics {unique count, mean, median, quartile range, mode, group by}
+• Research and understand levers that impact music publishing KPI's
+• Report music publishing clearance to the Legal Team in order to mitigate risk and ensure FB's platforms have the rights to host music from artists around the globe
+• Recommend adjustments to KPIs based on previous quarterly performance
+
+Dashboards & Pipeline
+• Create Dashboards that visualize broadcast and video team tasks, upcoming events, and deal program assets
+• Create pipelines to supply daily, weekly, or monthly data tables for use by XFN with PYTHON
+• Automate creation and database ingestion of workforce queue with PYTHON
+
+Workforce Optimization
+• Construct data tables and standardize workflows for our 90+ contractor workforce
+• Optimize database UI and reduce duplicate jobs in contractor work queues
+
+General
+• Prepare data and QA workflows for the launch of new products including FB/IG Music Sticker, Premium Music Video, IG Reels, Facebook Watch
+• Find data inconsistencies and improve pipeline performance for better reporting to our Music and Video Content Partners
    
 # Education:
 
