@@ -90,7 +90,8 @@ General
 # Education:
 
    Degree: B.A. Economics
-           Minor in Public Policy
+   
+   Minor: Public Policy
  
    Date: September 2017
    
