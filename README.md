@@ -59,7 +59,7 @@ Tools:
   
 # Current Role: 
 
-  Facebook Inc - Data Analyst 
+  ## Facebook Inc - Data Analyst 
   Sept 2019 - present
   
 Global Media Content Operations Team
