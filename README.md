@@ -63,9 +63,10 @@ Tools:
   Sept 2019 - present
   
 Global Media Content Operations Team
+
 Within my org, I am a Subject Matter Expert in data regarding Music Publishing, Video, Broadcast, Data Ingestion, and the Digital Supply Chain for Media Content Operations.
 
-Presto (SQL) is my best friend on the job and I use it every single day.
+Presto (SQL) is my best friend on the job and I use it every single day
 
 KPI & Reporting
 • Analyze global music usage across all music products with Descriptive Statistics {unique count, mean, median, quartile range, mode, group by}
