@@ -32,10 +32,12 @@ Portfolio
 
 Programming:
 
-  - SQL
+  - SQL (Presto)
   - PostgreSQL
   - Command Line (beginner)
   - Visual Basic Applications
+  - Git/Github
+  - Mercurial
   - SAS
   - MATLAB
   - Python (beginner)
